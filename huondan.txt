@@ -1,0 +1,8 @@
+﻿1: thay doi code trong code Block
+2 : chay thu, neu dung , copy vao file sorce.txt
+3: Window + R > go cmd.exe
+4: go cd, keo folder codeforce vao
+5: git status 
+6: git space add . enter
+7: git commit -m " nội dung thay đổi"
+8: git push enter >>>> khang khang >>>> khangkhang1669
