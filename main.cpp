@@ -17,7 +17,9 @@ int main()
 
 
 
-    cout << "Dien tich tam giac la:" << (x*y)/2 << endl;
+    cout << "Dien tich chu nhat la:" << x * y << endl;
+
+      cout << "Chu vi hinh chu nhat la:" << (x + y ) * 2 << endl;
 
 
     return 0;
